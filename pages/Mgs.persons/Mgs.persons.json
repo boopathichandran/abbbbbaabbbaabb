@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "6751cb88ece14c465f030a74_3a8df254-3784-4dfd-b4ea-b3afe544c4a7",
+  "gitSyncId": "6751cb88ece14c465f030a74_c0438eae-f9bd-415c-a753-f6fa3a1ab192",
   "unpublishedPage": {
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 860,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
           "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 900,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1174,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 125,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 90,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Mgs.persons",
+    "slug": "mgs-persons"
   }
 }
